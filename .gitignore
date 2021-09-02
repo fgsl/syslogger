@@ -1,0 +1,5 @@
+.phpunit.cache/
+.buildpath
+.project
+.settings/
+vendor/
