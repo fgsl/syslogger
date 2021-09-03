@@ -9,8 +9,10 @@
 		"logger"
 	],
 	"require" : {
-		"phpunit/phpunit" : "^9.5",
 		"laminas/laminas-log" : "^2.13"
+	},
+	"require-dev": {
+                "phpunit/phpunit" : "^9.5"
 	},
 	"autoload" : {
 		"psr-4" : {
