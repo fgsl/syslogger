@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "a4d90354a73720605f487bca3d3847c2",
+    "content-hash": "d5f260688df951c74a45f88da2cccc30",
     "packages": [
         {
             "name": "container-interop/container-interop",
@@ -1903,6 +1903,7 @@
             ],
             "description": "Provides a list of PHP built-in functions that operate on resources",
             "homepage": "https://www.github.com/sebastianbergmann/resource-operations",
+            "abandoned": true,
             "time": "2020-09-28T06:45:17+00:00"
         },
         {

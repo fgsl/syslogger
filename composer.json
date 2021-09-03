@@ -1,4 +1,13 @@
 {
+	"name" : "fgsl/syslogger",
+	"description": "Fgsl Webserver Logger",
+	"type" : "component",
+	"keywords" : [
+		"auditing",
+		"debugging",
+		"laminas",
+		"logger"
+	],
 	"require" : {
 		"phpunit/phpunit" : "^9.5",
 		"laminas/laminas-log" : "^2.13"
